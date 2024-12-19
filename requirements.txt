@@ -1,0 +1,8 @@
+streamlit 
+python-dotenv
+pyqrcode
+pyzbar
+opencv-python
+pypng
+azure-cosmos
+reportlab
