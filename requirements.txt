@@ -6,3 +6,5 @@ opencv-python
 pypng
 azure-cosmos
 reportlab
+openpyxl
+pandas
